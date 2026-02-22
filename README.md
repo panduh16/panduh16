@@ -1,4 +1,4 @@
-                              working on panduh16
+                       working on panda (universal script)
 ```
                               ,e*^"'''**w,                                      
                            w"-            "*g                                   
