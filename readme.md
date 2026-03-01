@@ -35,7 +35,7 @@
 
 ### [juju lib](https://panduh.gitbook.io/panduh-docs)
 juju recode ported to work as a "ui lib"
-### [vape v4 prison life module](https://github.com/panduh16/panduh)
-vape v4 for roblox made to work as a prison life hvh module
+### [vape v4 module scripts](https://github.com/panduh16/panduh)
+vape v4 for roblox made to work for additional games, currently supports `( prison life )`
 ### [shaq16](https://github.com/panduh16)
-open source project for ink game, 99 nights in the forest, build a brainrot, and prospecting
+open source project for `( ink game, 99 nights in the forest, build a brainrot, and prospecting )`
